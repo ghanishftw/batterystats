@@ -52,7 +52,7 @@ or set `KEYSTORE_FILE`, `KEYSTORE_PASSWORD`, `KEY_ALIAS` and `KEY_PASSWORD` as e
 
 If you really want an unsigned APK, for example on F-Droid's build server, pass `-PallowUnsigned=true`.
 
-GitHub Actions runs the tests and builds a signed APK on every push. Pushing a tag like `v1.0` makes a release with the APK attached.
+GitHub Actions runs the tests and builds a signed APK on every push. Pushing a tag like `v1.0` (or `1.0`) makes a release with the APK attached.
 
 ## License
 
