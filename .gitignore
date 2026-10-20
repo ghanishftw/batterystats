@@ -1,0 +1,13 @@
+.gradle/
+build/
+local.properties
+keystore.properties
+*.jks
+.idea/
+*.iml
+.kotlin/
+*.apk
+*.aab
+*.keystore
+*.p12
+.env

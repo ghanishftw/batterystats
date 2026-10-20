@@ -1,0 +1,21 @@
+<p>Battery Stats tells you what your battery is doing. It shows the current going in or out, how fast it drains with the screen on and off, how much your phone actually sleeps, and how much capacity your battery has left.</p>
+
+<p>It's free and open source. No ads, no accounts, and it doesn't use the internet at all.</p>
+
+<p>What you get:</p>
+<ul>
+<li>Current in mA, power in W, voltage and temperature, updated every few seconds</li>
+<li>Time left until full or empty</li>
+<li>Active drain (screen on) and idle drain (screen off) in % per hour</li>
+<li>Deep sleep and awake time while the screen is off</li>
+<li>A notification with all of the above, and the battery level or current in the status bar</li>
+<li>A morning report of how much the battery dropped overnight and how often the screen came on</li>
+<li>Battery health, worked out from how much charge goes in when you charge</li>
+<li>History of every charge and discharge</li>
+<li>Alarms when charging reaches a limit (80% by default) or the battery gets low</li>
+<li>Battery level chart for the last 24 hours</li>
+</ul>
+
+<p>Health needs a few charges of 30% or more before it shows a number. If your phone reports the wrong design capacity, you can set the right one in Settings.</p>
+
+<p>Needs Android 12 or newer.</p>
